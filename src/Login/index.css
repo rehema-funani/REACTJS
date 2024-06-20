@@ -1,0 +1,19 @@
+form{
+    width: 60%;
+    border: solid 1px;
+    padding: 10px;
+}
+input{
+    width: 95%;
+    margin: 2% 0;
+    padding: 16px 5px;
+}
+button{
+    padding: 12px 10px;
+    width: 100%;
+    border: none;
+    background-color: rgb(105, 161, 105);
+    cursor: pointer;
+    border-radius: 5px;
+    color: #ffffff;
+}
