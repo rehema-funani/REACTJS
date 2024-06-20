@@ -1,10 +1,13 @@
+import './index.css'
 const UserCard = ({image,fullName,id}) =>{
+    
     return (
-        <div>
+        <div id='profile'>
+
             <img src={image} alt = {`${fullName} profile`}/>
             <h3>{fullName}</h3>
-            <img/>
-            <h3></h3>
+            
+            
         </div>
     );
     

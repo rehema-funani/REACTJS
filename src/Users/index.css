@@ -1,0 +1,20 @@
+#profile{
+    display: inline grid;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 50px;
+    border: solid 1px;
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    border-color: rgb(25, 25, 218);
+}
+img{
+    gap: 100px;
+    height: 150px;
+    width: 230px;
+}
+h3{
+    font-size: 17px;
+    text-align: center;
+}
